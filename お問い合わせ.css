@@ -26,20 +26,21 @@ body {
     
   }
   
-  .box3 {
-  
-    border: solid 1px white;
-  
-    float: left;
-    text-align: center;
-    border: solid 1px white;
-  
-    line-height: 20px;
-  
-  
-    width:60%;
-  
-  }
+.box3 {
+
+  border: solid 1px white;
+
+  float: left;
+  text-align: center;
+  border: solid 1px white;
+
+  line-height: 20px;
+
+  width:55%;
+
+ 
+
+}
   
   .box2 {
   
